@@ -1,6 +1,6 @@
-## Hello there, Welcome to my GitHub Profile
+## Hello there.
 ![](hello.gif)
-### I'm Sreejith IV 👋
+### Welcome to my GitHub Profile. I'm Sreejith IV 👋
 **I'm a Backend developer and a DevOps noobie.**\
 **Love Linux and the command line.**\
 **I admire Free and open source software.**\
