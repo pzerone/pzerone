@@ -1,6 +1,6 @@
 ## Hello there.
 ![](hello.gif)
-### Welcome to my GitHub Profile. I'm Sreejith IV 👋
+### I'm Sreejith IV 👋
 - **I'm a Backend developer and a DevOps noobie.**
 - **Love Linux and the command line.**
 - **I admire Free and open source software.**
@@ -12,7 +12,6 @@
 \
 &nbsp;
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=pzerone&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
 \
 &nbsp;
 \
