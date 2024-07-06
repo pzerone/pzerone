@@ -1,5 +1,5 @@
 ## Hello there.
-![](hello.gif)
+![](home.png)
 ### I'm Sreejith IV 👋
 - **I'm a Backend developer and a DevOps noobie.**
 - **Love Linux and the command line.**
